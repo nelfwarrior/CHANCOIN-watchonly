@@ -1,8 +1,9 @@
-CHANCOIN latest release
-=======================
+CHANCOIN-watchonly
+================================
+ 
+This fork of CHANCOIN incorporates "watch only" addresses, allowing the import of public 4CHN addresses without also having the private key. 
 
-# Download here: https://github.com/CHANCOIN/CHANCOIN/releases/latest
-
+### THIS IS AN EXPERIMENTAL DEVELOPMENT BUILD. ITS PURPOSE IS FOR WEB-WALLET SERVERS ONLY. USE AT YOUR OWN RISK!
 
 ChanCoin integration/staging tree
 ================================
